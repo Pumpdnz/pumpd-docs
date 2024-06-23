@@ -40,5 +40,6 @@ For further assistance, feel free to [contact us](https://support.cloudwaitress.
 ***
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Go back to ](https://www.cloudwaitress.com)[Pumpd.co.nz](https://www.pumpd.co.nz/)
 {% endhint %}
+
