@@ -4,13 +4,16 @@ description: >-
   features are specific to certain situations, countries or tax jurisdiction.
 ---
 
-# Special Features
+# Special & New Features
 
-{% page-ref page="public-holiday-surcharge.md" %}
+{% content-ref url="public-holiday-surcharge.md" %}
+[public-holiday-surcharge.md](public-holiday-surcharge.md)
+{% endcontent-ref %}
 
-{% page-ref page="make-service-pop-up-required.md" %}
+{% content-ref url="make-service-pop-up-required.md" %}
+[make-service-pop-up-required.md](make-service-pop-up-required.md)
+{% endcontent-ref %}
 
-{% page-ref page="covid-19-discount-for-united-kingdom.md" %}
-
-
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

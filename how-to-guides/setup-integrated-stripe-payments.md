@@ -9,7 +9,7 @@ description: >-
 
 ### Steps to Set Up Stripe+ Payments:
 
-1. **Login:** Access your admin dashboard at [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
+1. **Login:** Access your admin dashboard at [https://admin.pumpd.co.nz ](https://admin.pumpd.co.nz)[.](https://admin.pumpd.co.nz)
 2. **Navigate to Settings:** Go to **Settings > Payments > Add Payment Method > Stripe > Add Method**.
 
 <figure><img src="../.gitbook/assets/Settings-payments-Stripe.png" alt=""><figcaption><p>Settings > Payments > Add Payment Method > Stripe > Add Method</p></figcaption></figure>
@@ -21,7 +21,7 @@ description: >-
 | **Enabled**                    | On                          | Activates the feature                                                                               |
 | **Stripe Secret Key**          | sk\_live                    |                                                                                                     |
 | **Stripe Publishable Key**     | pk\_live                    |                                                                                                     |
-| **Stripe Version**             | Version 2                   | Only use Version 1 if requested by CloudWaitress support                                            |
+| **Stripe Version**             | Version 2                   | Only use Version 1 if requested by Pump'd support                                                   |
 | **Currency**                   | AUD - Australian Dollar - $ | Use your local currency                                                                             |
 | **Disable E-Mail Receipt**     |                             |                                                                                                     |
 | **Enable Custom Payment Form** |                             |                                                                                                     |
@@ -34,15 +34,15 @@ description: >-
 
 3. **Save Settings:** Press **Save** to apply the settings.
 4. **Test Your Setup:** Launch your store and place a live test order using your card, Google Pay, or Apple Pay.
-5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.
+5. **Get Assistance:** For any issues or to activate your SC Account ID, please email Gianni@pumpd.co.nz or use the chat support feature.
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [Gianni@pumpd.co.nz](https://app.gitbook.com/u/MjyhhhNdIeS3Tw8pUFix0pXVbaB2) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
 
-### Don't Have a CloudWaitress Account?
+### Don't Have a Pump'd Account?
 
-Visit [www.cloudwaitress.com](https://www.cloudwaitress.com) and click the **Sign Up** button on the top right to create your account.
+Visit [https://admin.pumpd.co.nz/register](https://admin.pumpd.co.nz/register) and create your account.
 
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)

@@ -22,8 +22,8 @@ description: >-
 [configure-your-services.md](configure-your-services.md)
 {% endcontent-ref %}
 
-{% content-ref url="customize-your-design/" %}
-[customize-your-design](customize-your-design/)
+{% content-ref url="customize-your-design.md" %}
+[customize-your-design.md](customize-your-design.md)
 {% endcontent-ref %}
 
 {% content-ref url="managing-orders-and-bookings.md" %}

@@ -8,18 +8,18 @@ description: >-
 
 ## Changing Subscription Plan
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
+1. Visit [https://admin.pumpd.co.nz ](https://admin.pumpd.co.nz) and login
 2. Click **billing** on a restaurant in your restaurant list
 3. In the popup, select your subscription plan and press "Edit Subscription"
 4. Choose your plan from the drop down and press "Update Subscription"
 
-\|\| You will need to add a payment method before switching to a paid plan
+|| You will need to add a payment method before switching to a paid plan
 
 ## Add A Payment Method
 
 We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
+1. Visit [https://admin.pumpd.co.nz ](https://admin.pumpd.co.nz) and login
 2. Click **billing** on a restaurant in your restaurant list
 3. In the popup, select "Payment Methods" and enter your card details
 
@@ -42,4 +42,3 @@ If your account is cancelled, add a valid payment method to re-active your subsc
 ## Refunds
 
 Refunds will only be provided if our platform fails to meet its stated role when being used. Please contact us to discuss this.
-

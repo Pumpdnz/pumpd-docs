@@ -4,7 +4,7 @@ description: how to guide to connect a USB printer
 
 # Printing - Windows Shared Printing
 
-#### 1. Please go to Windows control Panel&#x20;
+#### 1. Please go to Windows control Panel
 
 ![](<../../.gitbook/assets/untitled (3).png>)
 
@@ -44,9 +44,9 @@ description: how to guide to connect a USB printer
 
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Pump'd.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Pump'd.
 
 **Number of copies** - This will determine how many copies of the are printed.
 

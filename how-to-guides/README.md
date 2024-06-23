@@ -1,7 +1,7 @@
 ---
 description: >-
   This section will take you through how to set-up specific features within
-  CloudWaitress.com.
+  Pump'd.
 ---
 
 # How to Guides

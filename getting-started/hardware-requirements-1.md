@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Requirements
 
-Welcome to the CloudWaitress Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
+Welcome to the Pump'd Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
 
 ### Stable Internet Connection
 
@@ -19,7 +19,7 @@ A stable internet connection is essential for our cloud-based system. Here are s
 * **Primary 5G Connection:** Consider exclusively using a 5G connection in areas with reliable mobile networks.
 
 {% hint style="warning" %}
-**Firewall Settings:** Ensure cloudwaitress.com is white-listed on your firewall to prevent connection issues.
+**Firewall Settings:** Ensure Pump'd is white-listed on your firewall to prevent connection issues.
 {% endhint %}
 
 ## Computer or Tablet
@@ -54,7 +54,7 @@ We highly recommend using an Android device or Windows tablet/computer. Windows 
 ## Printers
 
 {% hint style="info" %}
-Printers are optional but useful for managing orders.  We highly recommend using a thermal receipt printer.
+Printers are optional but useful for managing orders. We highly recommend using a thermal receipt printer.
 {% endhint %}
 
 #### From Windows
@@ -81,7 +81,7 @@ We recommend printers from [PushPrinter](https://www.pushprinter.com) as we trus
 **Other Printers:**
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
 {% endhint %}
 
 * Star Micronics TSP143 (Bluetooth, USB, or Wi-Fi)
@@ -105,7 +105,7 @@ For more detailed information and step-by-step guides, visit the following pages
 
 For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
 
-Explore more at [CloudWaitress.com](https://www.cloudwaitress.com).
+Explore more at [Pump'd.co.nz](https://www.pumpd.co.nz/).
 
 ***
 

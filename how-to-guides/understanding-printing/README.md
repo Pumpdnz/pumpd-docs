@@ -1,6 +1,6 @@
 ---
 description: >-
-  Use our guides below for assistance on connecting up your CloudWaitress online
+  Use our guides below for assistance on connecting up your Pump'd online
   ordering store to your printer.
 ---
 
@@ -22,6 +22,4 @@ description: >-
 
 To review all our printing features, visit our [printing features page](https://www.cloudwaitress.com/features/windows-or-linux-based-printing).
 
-
-
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+Go back to [Pump'd](https://www.pumpd.co.nz/)

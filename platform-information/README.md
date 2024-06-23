@@ -19,5 +19,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+Go back to [Pumpd.co.nz](https://www.pumpd.co.nz/)
 {% endhint %}

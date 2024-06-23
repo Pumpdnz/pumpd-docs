@@ -6,7 +6,3 @@ description: >-
 
 # Public Holiday Surcharge
 
-{% embed url="https://youtu.be/HFXDA18pflc" %}
-Adding conditional fees to your online ordering system
-{% endembed %}
-

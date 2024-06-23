@@ -21,7 +21,7 @@ When Stripe is enabled, customers can choose from the online payment option when
 ## Connecting Your Stripe Account
 
 1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account&#x20;
+2. Ensure you are viewing your live account and not your test account
 3. Login to your account dashboard. On the left navigation, go to "Developers > API Keys"
 4. Next, open up your restaurant dashboard and navigate to "Settings > Payments > Stripe"
 5. Enable Stripe payments using the "Enable" switch
@@ -44,7 +44,7 @@ To withdraw online payments to your bank, you will need to ensure your Stripe ac
 
 ## Stripe Fee's
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudWaitress account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your Pump'd account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
 

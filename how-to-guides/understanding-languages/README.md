@@ -1,7 +1,7 @@
 ---
 description: >-
   More information on using and customising the language settings inside of
-  CloudWaitress.
+  Pump'd.
 ---
 
 # Understanding Languages

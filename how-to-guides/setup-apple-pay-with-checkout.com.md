@@ -14,7 +14,7 @@ Customers with Apple Pay-compatible devices can utilize this payment method to e
 
 ## Requirements
 
-In order to configure and use Apple Pay with CloudWaitress, you need to prepare some business accounts and tools as follows:
+In order to configure and use Apple Pay with Pump'd, you need to prepare some business accounts and tools as follows:
 
 * A Checkout.com business account. You can send an inquiry to create a new account to Checkout.com here - [https://www.checkout.com/contact-sales](https://www.checkout.com/contact-sales)
 * An Apple developer account; make sure you have a proper role to create identifiers and certificates.
@@ -26,7 +26,7 @@ In order to configure and use Apple Pay with CloudWaitress, you need to prepare 
 ### Create a Merchant Identifier in Apple Developer Account
 
 1. Log in to your Apple Developer account.
-2. Create your merchant by going to **Certificates, IDs & Profiles > Identifiers**, click the plus button, select the **Merchant IDs** section, then click **Continue**. You can quickly access this section by access this URL - [https://developer.apple.com/account/resources/identifiers/merchant/add](https://developer.apple.com/account/resources/identifiers/merchant/add/)&#x20;
+2. Create your merchant by going to **Certificates, IDs & Profiles > Identifiers**, click the plus button, select the **Merchant IDs** section, then click **Continue**. You can quickly access this section by access this URL - [https://developer.apple.com/account/resources/identifiers/merchant/add](https://developer.apple.com/account/resources/identifiers/merchant/add/)
 3. Choose a useful description for the merchant.
 4. For merchant ID, you should use a descriptive name to indicate both your business and the environment you will use it in, for example, **merchant.com.mystore.production**.
 
@@ -57,7 +57,7 @@ Demo from Checkout.com
 2. Under the Merchant Domains section, click Add Domain.
 3. Enter the domain for your business and click Save.
 4. Click Download to get the `.txt` file.
-5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the CloudWaitress.
+5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the Pump'd.
 
 ### Create your Apple Pay Certificates
 
@@ -71,7 +71,7 @@ Demo from Checkout.com
 4. Under the **Apple Pay Merchant Identity Certificate** section, click **Create Certificate**.
 5. Upload the`.csr` file you created from the above command. It should be called `uploadMe.csr` if you just copy the command above.
 6. Click Continue then click Download to get your `.cer` file. The file name should probably be called `merchant_id.cer`.
-7.  Convert the `.cer` file into a `.pem` file using the following command:&#x20;
+7.  Convert the `.cer` file into a `.pem` file using the following command:
 
     ```
     openssl x509 -inform der -in merchant_id.cer -out certificate.pem
@@ -91,11 +91,11 @@ After going through all the above steps, you should have the following at your h
 * A `apple-developer-merchantid-domain-association.txt` file that is provided by Apple when you add the domain.
 * A `.key` and `.pem` certificate files.
 
-## Enable Apple Pay in CloudWaitress Dashboard
+## Enable Apple Pay in Pump'd Dashboard
 
-After configuring Apple Developer Account and Checkout.com, we need to do some steps on the CloudWaitress dashboard to make Apple Pay fully functional.
+After configuring Apple Developer Account and Checkout.com, we need to do some steps on the Pump'd dashboard to make Apple Pay fully functional.
 
-1. Head over your restaurant settings in your CloudWaitress dashboard.
+1. Head over your restaurant settings in your Pump'd dashboard.
 2. Click on the **Payments** tab and click **Add Payment Method**.
 3. Select **Apple Pay (Checkout.com)** in the payment method list, and click **Add Method**.
 

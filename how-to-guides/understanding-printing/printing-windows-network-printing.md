@@ -45,11 +45,11 @@ description: How to guide to print with a network printer
 12\. Add settings including API key from the printer just created.
 
 {% hint style="info" %}
-**For a network printer:**&#x20;
+**For a network printer:**
 
-* Name the printer.&#x20;
-* Add API printer (found in the store printer settings),&#x20;
-* Set number of copies&#x20;
+* Name the printer.
+* Add API printer (found in the store printer settings),
+* Set number of copies
 * Add printer IP address and set port to 9100).
 {% endhint %}
 
@@ -58,9 +58,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Pump'd.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Pump'd.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -74,4 +74,3 @@ description: How to guide to print with a network printer
 14\. Create printer
 
 15\. Go to your store and place a test order.
-

@@ -6,10 +6,6 @@ description: >-
 
 # Configure Your Services
 
-{% embed url="https://youtu.be/EUW9nZVAE68" %}
-Services video tutorial
-{% endembed %}
-
 There are 4 services currently available. They are:
 
 * Pickup - orders that are picked up in store by customers to take away
@@ -93,7 +89,7 @@ Both estimated wait times and automated status updates are connected to the same
 
 ### Estimated Wait Times
 
-As stated, customer wait times are calculated using the above timing settings.&#x20;
+As stated, customer wait times are calculated using the above timing settings.
 
 #### How estimated wait time are calculated for pickup or dine-in orders
 
@@ -103,7 +99,7 @@ If you have not added a value for time till confirm or time till ready, the esti
 
 #### How estimated wait time is calculate for delivery orders
 
-For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming&#x20;
+For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming
 
 If you have not added a value for time till confirm or time till ready or time till on route, the delivery time would not be calculated.
 
