@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to the CloudWaitress Knowledge Base! Here, you'll find comprehensive
-  articles to help you set up and master our platform, whether you're just
-  starting or looking to optimise your operations.
+  Welcome to the Pump'd Knowledge Base! Here, you'll find comprehensive articles
+  to help you set up and master our platform, whether you're just starting or
+  looking to optimise your operations.
 ---
 
 # Overview

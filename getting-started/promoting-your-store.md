@@ -28,7 +28,7 @@ You can consider paying for Facebook or Google ads. Both of these are avenues to
 
 ## Create A Google Places Listing
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.nz/business/](https://www.google.com.au/business/) to create or manage your listing.
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
@@ -48,7 +48,7 @@ Once you have purchased your own domain name, visit "Settings > Website > Domain
 
 Under the "Settings > Website > SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
-Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
+Say you own an Indian restaurant called The Taj Mahal in a suburb called Merivale in Christchurch. Your title should be "The Taj Mahal - Authentic Indian Merivale Christchurch.
 
 Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
 

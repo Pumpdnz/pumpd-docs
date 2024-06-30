@@ -42,7 +42,7 @@ Once this is done, you can use the credit card number "4242 4242 4242 4242" with
 
 To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
 
-## Stripe Fee's
+## Stripe Fees
 
 We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your Pump'd account to process charges on your behalf with the money going straight to your account.
 

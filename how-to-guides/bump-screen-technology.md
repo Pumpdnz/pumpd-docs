@@ -7,12 +7,9 @@ description: >-
 
 # Bump Screen Technology
 
-
-
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 5.40.03 AM.png" alt=""><figcaption></figcaption></figure>
 
-On the Admin Dashboard, click on the Order Icon > Bump Screen\
-
+On the Admin Dashboard, click on the Order Icon > Bump Screen\\
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 6.20.24 AM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -20,20 +17,16 @@ On the Admin Dashboard, click on the Order Icon > Bump Screen\
 
 <mark style="color:orange;">**The Next Step in Kitchen Efficiency**</mark>
 
-Our Bump Screen technology is expertly designed to transform chaotic kitchen environments into models of efficiency and precision. By integrating our Bump Screen into your workflow, your kitchen staff can focus on what they do best: delivering delicious food.\
-
+Our Bump Screen technology is expertly designed to transform chaotic kitchen environments into models of efficiency and precision. By integrating our Bump Screen into your workflow, your kitchen staff can focus on what they do best: delivering delicious food.
 
 <mark style="color:orange;">**Key Benefits of Our Bump Screen:**</mark>
 
 * **Instant Updates:** Orders appear in real-time, allowing immediate action and reducing preparation time.
-* &#x20;**Simplified Workflow:** A single tap ‘bumps’ completed orders off the screen, keeping the focus on pending items.
-* &#x20;**Error Reduction:** Clear, concise visuals reduce mistakes and ensure customers receive the ordered food.
-* &#x20;**Space Maximisation:** Eliminate the clutter of paper tickets and open up valuable space in the kitchen.
-* &#x20;**Durability for Busy Kitchens:** Our screens are built to withstand a high-volume kitchen’s heat, moisture, and hustle.\
-
+* **Simplified Workflow:** A single tap ‘bumps’ completed orders off the screen, keeping the focus on pending items.
+* **Error Reduction:** Clear, concise visuals reduce mistakes and ensure customers receive the ordered food.
+* **Space Maximisation:** Eliminate the clutter of paper tickets and open up valuable space in the kitchen.
+* **Durability for Busy Kitchens:** Our screens are built to withstand a high-volume kitchen’s heat, moisture, and hustle.
 
 <mark style="color:orange;">**Advanced Order Aggregation**</mark>
 
-Seamlessly integrate with our order aggregation feature, syncing orders from third-party platforms like [UberEats](https://ubereats.com/), DoorDash, Grubhub, and more. Available in Australia, New Zealand, Canada, the USA, and other select countries, this feature ensures that all your orders are centralised for maximum efficiency.
-
-\
+Seamlessly integrate with our order aggregation feature, syncing orders from third-party platforms like [UberEats](https://ubereats.com/), DoorDash, and more. Available all over New Zealand, this feature ensures that all your orders are centralised for maximum efficiency.

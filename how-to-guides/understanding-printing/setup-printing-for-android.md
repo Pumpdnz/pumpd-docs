@@ -20,8 +20,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ### Create A Printer Configuration
 
-1.  Visit your restaurant dashboard and navigate to "Settings > Receipt Printing > Create Printer"\
-
+1.  Visit your restaurant dashboard and navigate to "Settings > Receipt Printing > Create Printer"
 
     <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 2. Fill out the following:
@@ -50,25 +49,17 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ![](<../../.gitbook/assets/image (2) (2).png>)
 
-
-
 2\. Press the "+” sign on the top to configure a printing service. Make sure that the printer is on.
 
-&#x20;![](../../.gitbook/assets/push3.png)
-
-
+![](../../.gitbook/assets/push3.png)
 
 3\. Pair the Android device to the printer via Bluetooth
 
 ![](<../../.gitbook/assets/image (10).png>)
 
-
-
 4\. Once it’s successfully connected, a test print will be sent to the printer.
 
 <img src="../../.gitbook/assets/image (11).png" alt="" data-size="original">
-
-
 
 5\. Fill out Printer Details such as the Printer Name, API Key and Number of Copies.
 
@@ -97,7 +88,7 @@ We have successfully setup 100's of printers, there is a good chance we can save
 
 #### Sides being cut-off
 
-Start by reducing either your Paper Scale Factor to 1.7 and test print again.  Adjust until it fits.
+Start by reducing either your Paper Scale Factor to 1.7 and test print again. Adjust until it fits.
 
 #### Invalid API Key
 
@@ -110,4 +101,3 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
-

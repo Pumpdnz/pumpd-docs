@@ -26,4 +26,4 @@ description: Step through guide for the new email notification feature for delay
 
 ![Step 6 screenshot](https://images.tango.us/workflows/2fe2c70e-3b35-4563-b397-de3f3147ae04/steps/f30bd579-456c-4f6d-b343-4879cd5ab473/b65fafbf-15db-4fe3-9e39-b1bed324219d.png?crop=focalpoint\&fit=crop\&fp-x=0.4932\&fp-y=0.4862\&fp-z=2.9282\&w=1200)
 
-### 7. If you choose to 'Send Email', click the button and it will send an email notification as per the below example.
+### 7. If you choose to 'Send Email', click the button and it will send an email notification to your customer.

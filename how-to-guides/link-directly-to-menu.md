@@ -18,7 +18,7 @@ Replace the above url with your restaurant url;
 store-demo.pumpd.co.nz > yourdomain.com
 ```
 
-Replace add the menu id of the menu that you would like to link to;
+Replace and add the menu id of the menu that you would like to link to;
 
 ```bash
 menu_id=6kNXYMVEl > menu_id=id from your menu

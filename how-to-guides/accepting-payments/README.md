@@ -14,8 +14,6 @@ We have worked hard to craft the best payments experience without compromising s
 [stripe+-integrated-payments.md](../stripe+-integrated-payments.md "mention")
 {% endhint %}
 
-This feature is supported in [these countries](https://stripe.com/global).
-
 ## Popular Alternatives
 
 **Cash** - This is enabled by default
